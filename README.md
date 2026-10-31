@@ -18,7 +18,7 @@ Provides an overview of sales performance across product categories, customer se
 - Top 5 Selling Products by Year
 - Monthly Sales Comparison
 - Top 10 Countries by Sales
-
+![Sales Dashboard](SALES-DASHBOARD.png)
 
 ### 2. Profit Analysis Dashboard
 
@@ -33,6 +33,8 @@ Focuses on business profitability and identifies the most profitable products, c
 - Total Profit by Customer Segment
 - Top 5 Profitable Products
 - Monthly Profit Comparison
+
+![Profit Dashboard](PROFIT-DASHBOARD.png)
 
 ### 3. Customer Demographics Dashboard
 
@@ -49,7 +51,7 @@ Analyzes customer activity, customer value, order priorities, and geographical b
 - Profit by Order Priority
 - Sales and Profit by Region
 
-
+![Demographics Dashboard](DEMOGRAPHICS-DASHBOARD.png)
 
 ## ✨ Key Features
 
@@ -91,7 +93,7 @@ This dashboard helps businesses:
 
 **Adwaith S Nair**
 
-GitHub: https://github.com/Adwaith-38
+GitHub: [@Adwaith-38](https://github.com/Adwaith-38)
 
 ---
 
