@@ -18,6 +18,7 @@ Provides an overview of sales performance across product categories, customer se
 - Top 5 Selling Products by Year
 - Monthly Sales Comparison
 - Top 10 Countries by Sales
+
 ![Sales Dashboard](SALES-DASHBOARD.png)
 
 ### 2. Profit Analysis Dashboard
