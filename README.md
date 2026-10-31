@@ -89,7 +89,7 @@ This dashboard helps businesses:
 
 ## 👨‍💻 Author
 
-**Adwaith S**
+**Adwaith S Nair**
 
 GitHub: https://github.com/Adwaith-38
 
